@@ -1,0 +1,22 @@
+{
+  "name": "gitrepo",
+  "version": "1.0.0",
+  "description": "npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmusk7/remote_test.git"
+  },
+  "author": "hmusk7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmusk7/remote_test/issues"
+  },
+  "homepage": "https://github.com/hmusk7/remote_test#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
